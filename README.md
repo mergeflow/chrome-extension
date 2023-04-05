@@ -19,3 +19,10 @@ So that you can use this extension, you need a Mergeflow account. If you don't a
 
 Information about the datasets available in Mergeflow:
 https://faq.mergeflow.com/data-sets
+
+## Can't I get it from the Chrome web store?
+
+Yes, you can:
+https://chrome.google.com/webstore/detail/mergeflow-search/fdidemgaefophglkbgpkjfpnmoadhbgb?hl=en&authuser=0
+
+But we created this repo so you can see the code of the extension.
