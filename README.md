@@ -7,7 +7,7 @@ It works like this:
 2. Right-click
 3. Select "Search Mergeflow for..."
 
-So that you can use this extension, you need a Mergeflow account. If you don't already have one, you can sign up for a free trial at <a href="https://mergeflow.net/signup" target="_blank">https://mergeflow.net/signup</a>.
+So that you can use this extension, you need a Mergeflow account. If you don't already have one, you can sign up for a free trial at https://mergeflow.net/signup.
 
 Information about the datasets available in Mergeflow:
 https://faq.mergeflow.com/data-sets
