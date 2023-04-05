@@ -1,5 +1,13 @@
-# 'Search in Mergeflow' Chrome extension
+# "Search in Mergeflow" Chrome extension
 With this Chrome extension, you can select any word(s) in a webpage, and search Mergeflow for it.
+
+## How to add the extension to your Chrome browser
+
+1. Go to chrome://extensions/
+2. Enable Developer Mode
+3. Click "Load unpacked extension", and select the folder where you put the files of this extension.
+
+## How to use the extension
 
 It works like this:
 
